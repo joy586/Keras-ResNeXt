@@ -1,5 +1,8 @@
 # Keras ResNeXt
 
+## <font color='red'>Please note that this is not optimized implementation of ResNeXt for Keras/Tensorflow, refer [issue 12](https://github.com/titu1994/Keras-ResNeXt/issues/12) for more details.</font>
+
+
 Implementation of ResNeXt models from the paper [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/pdf/1611.05431.pdf) in Keras 2.0+.
 
 Contains code for building the general ResNeXt model (optimized for datasets similar to CIFAR) and ResNeXtImageNet (optimized for the ImageNet dataset).
